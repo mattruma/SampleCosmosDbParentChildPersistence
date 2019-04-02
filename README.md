@@ -1,6 +1,8 @@
 # Introduction
 This is an example of ~~three~~ four different ways to store and access a document consisting of a parent and child relationship in a CosmosDB database.
 
+The repository is located at https://github.com/mattruma/SampleCosmosDbParentChildPersistence.
+
 For more information on data modeling in CosmosDB see https://docs.microsoft.com/en-us/azure/cosmos-db/modeling-data.
 
 In most of the demo I provided examples of storing and retrieving the document with direct reads and writes to CosmosDB as well as an example that follows a more repository like the pattern, the latter allowing for better testing.
